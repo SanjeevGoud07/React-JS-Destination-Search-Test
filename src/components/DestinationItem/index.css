@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.Img {
+  width: 300px;
+}
+.Item {
+  margin: 25px;
+}
+.para {
+  font-weight: 500;
+}
+li {
+  list-style-type: none;
+}
